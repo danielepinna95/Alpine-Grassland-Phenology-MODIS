@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below."
+title: "Alpine grassland phenology from 23 years of MODIS NDVI"
+authors:
+  - family-names: Pinna
+    given-names: Daniele
+    affiliation: University of Padova
+license: MIT
+preferred-citation:
+  type: article
+  title: "Modelling vegetation phenology in alpine grasslands of North-East Italy integrating microclimatic and meteorological drivers: A 23-years time-series analysis"
+  authors:
+    - family-names: Pinna
+      given-names: Daniele
+    - family-names: Sozzi
+      given-names: Marco
+    - family-names: Pornaro
+      given-names: Cristina
+    - family-names: Macolino
+      given-names: Stefano
+    - family-names: Pezzuolo
+      given-names: Andrea
+    - family-names: Marinello
+      given-names: Francesco
+  journal: "Computers and Electronics in Agriculture"
+  volume: 232
+  start: 110154
+  year: 2025
+  doi: "10.1016/j.compag.2025.110154"
